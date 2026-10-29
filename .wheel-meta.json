@@ -1,0 +1,22 @@
+{
+  "wheel_id": 501,
+  "structure": "umbrella",
+  "slug": "webdesignsydneyaustralia-150",
+  "project": "web-design-sydney-planning-guide-ba7c443fa0d78ce7ebf4c75cfa6",
+  "parent_t1_ref": "webdesignsydneyaustralia-010",
+  "node_role": "buffer",
+  "money_target": "webdesignsydneyaustralia.com.au",
+  "primary_kw": "web design sydney planning guide",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-sydney-planning-guide-ba7c443fa0d78ce7ebf4c75cfa6/",
+  "tier": "T2",
+  "writeback_nonce": "0a23509cde88867f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/web-design-sydney-010/",
+      "anchor": "Web Design Sydney: A Practical Buyer Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}

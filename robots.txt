@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: DotBot
+Disallow: /
+
+Sitemap: https://vercel-cloudsites-hub.vercel.app/sites-01/web-design-sydney-planning-guide-ba7c443fa0d78ce7ebf4c75cfa6/sitemap.xml
